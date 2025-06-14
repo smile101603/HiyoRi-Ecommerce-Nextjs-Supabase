@@ -84,7 +84,7 @@ We welcome contributions to Hiyori! Please read our Contributing Guide for detai
 
 Hiyori is licensed under the MIT License. See the license file for more information.
 
-## Acknowledgments
+## Acknowledgments   
 
 - Special thanks to all libraries and frameworks that made Hiyori possible.
 - Shoutout to the community for supporting and using Hiyori.
